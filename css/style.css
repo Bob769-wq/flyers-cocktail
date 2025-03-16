@@ -371,10 +371,6 @@ h2 {
   cursor: pointer;
 }
 
-.arrow:focus {
-  color: aquamarine;
-  width: 40px;
-}
 
 .faq-click:focus~.answer {
   display: block;
@@ -386,9 +382,6 @@ h2 {
   margin-top: 1rem;
 }
 
-.theme-icon:focus {
-  color: aqua;
-}
 
 
 footer {
